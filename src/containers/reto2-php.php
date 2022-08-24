@@ -4,7 +4,7 @@ function reglafibonacci($pfibonacci){
     $primerNumero=1;
     $segundoNumero=1;
     if ($pfibonacci==1) {
-        echo('0');
+        echo('0');hx
     }
     elseif ($pfibonacci==2) {
     	echo('0 1') ;
